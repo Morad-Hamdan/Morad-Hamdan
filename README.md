@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Développeur logiciel</b><br>
-  Python · PHP · Laravel · FastAPI
+  Python · PHP · Laravel · FastAPI · Flask
 </p>
 
 <p align="center">
@@ -26,13 +26,18 @@ des Pratiques Professionnelles Sécurité. Elle lit un Excel, calcule le statut 
 certification et affiche un tableau de bord interactif.
 `FastAPI` `Laravel` `SQLite` `Pandas`
 
+**[Facturation & Colisage](https://github.com/Morad-Hamdan/facturation-colisage)** —
+Génération de factures et de colisage PDF/Excel en 5 clics, archivage automatique,
+plus un bot Telegram pour retrouver les documents depuis un téléphone.
+`Flask` `Telegram` `SQLite`
+
 **[PDF / Outlook Automation](https://github.com/Morad-Hamdan/python-pdf-outlook-automation)** —
 Documentation de fichiers PDF et distribution automatique via Outlook.
 `Python`
 
 ### Stack
 
-Python · FastAPI · Pandas · PHP · Laravel · Tailwind CSS · SQLite · Git
+Python · FastAPI · Flask · PHP · Laravel · Pandas · SQLite · Tailwind CSS · Git
 
 ---
 
